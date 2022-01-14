@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @onilpa
-- 👀 I’m interested in ... undertale deltarune
+- 👀 I’m interested in undertale deltarune
 - 🌱 I’m currently learning phyton
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
